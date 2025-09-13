@@ -1,0 +1,10 @@
+import os,sys
+os.system("clear") 
+print ("\n\r") 
+os.system("echo '[1;31mYou'")
+os.system("figlet are")  
+os.system("echo '[1;37man Idiot! '") 
+print ("\n\r") 
+os.system("sleep 3.2") 
+os.system("clear") 
+os.system("python .auto-space.py") 
